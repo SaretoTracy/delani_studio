@@ -65,8 +65,22 @@ h2 {
 
 .design {
     text-align: center;
+    position: relative;
 }
 
 #design {
     width: 10%;
+}
+
+.design p {
+    position: absolute;
+    top: 0;
+}
+
+strong {
+    line-height: 3rem;
+}
+
+.display {
+    display: none;
 }
