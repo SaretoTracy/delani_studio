@@ -63,6 +63,11 @@ h2 {
     text-shadow: 0 0 5px black;
 }
 
+.we_do {
+    display: flex;
+    justify-content: space-between;
+}
+
 .design {
     text-align: center;
     position: relative;
