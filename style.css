@@ -12,9 +12,16 @@
 }
 
 #initial {
-    align-items: center;
+    text-align: center;
+    color: white;
+    padding-top: 3rem;
 }
 
 #logo {
     width: 8%;
+}
+
+h1 {
+    color: white;
+    line-height: 3.5rem;
 }
