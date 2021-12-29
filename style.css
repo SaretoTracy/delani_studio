@@ -72,9 +72,14 @@ h2 {
     width: 10%;
 }
 
-.design p {
+.show {
+    display: none;
+}
+
+.pop {
     position: absolute;
     top: 0;
+    display: none;
 }
 
 strong {
@@ -82,5 +87,5 @@ strong {
 }
 
 .display {
-    display: none;
+    display: block;
 }
