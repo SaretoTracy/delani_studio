@@ -26,3 +26,8 @@ h1 {
     color: white;
     line-height: 5rem;
 }
+
+#mouse {
+    width: 1.5%;
+    padding-top: 12rem;
+}
