@@ -108,3 +108,11 @@ h4 {
 .portfolio {
     padding-top: 1rem;
 }
+
+.row {
+    padding-bottom: 1rem;
+}
+
+.row2 img {
+    width: 300px;
+}
