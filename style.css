@@ -64,6 +64,11 @@ h2 {
 }
 
 .we_do {
+    height: 30vh;
+    text-align: center;
+}
+
+.dos {
     display: flex;
     justify-content: space-between;
 }
@@ -71,6 +76,7 @@ h2 {
 .design {
     text-align: center;
     position: relative;
+    padding-top: 1.5rem;
 }
 
 #design {
