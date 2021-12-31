@@ -64,7 +64,7 @@ h2 {
 }
 
 .we_do {
-    height: 30vh;
+    height: 40vh;
     text-align: center;
 }
 
@@ -103,4 +103,8 @@ strong {
 
 h4 {
     font-size: 16px;
+}
+
+.portfolio {
+    padding-top: 1rem;
 }
