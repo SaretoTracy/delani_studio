@@ -121,3 +121,7 @@ h4 {
 .row {
     padding-bottom: 2rem;
 }
+
+.desc {
+    border: 1px solid red;
+}
