@@ -48,6 +48,9 @@ h2 {
     padding-top: 1.5rem;
 }
 
+
+/*services*/
+
 .services {
     background-image: url("./assets/backgrounds/3rdbcg.jpg");
     background-position: 100% center;
@@ -62,6 +65,9 @@ h2 {
     padding-top: 1.5rem;
     text-shadow: 0 0 5px black;
 }
+
+
+/*what we do*/
 
 .we_do {
     height: 40vh;
@@ -105,14 +111,13 @@ h4 {
     font-size: 16px;
 }
 
+
+/*portfolio*/
+
 .portfolio {
     padding-top: 1rem;
 }
 
 .row {
     padding-bottom: 2rem;
-}
-
-.row2 img {
-    width: 300px;
 }
