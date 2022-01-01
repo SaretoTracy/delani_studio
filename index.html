@@ -120,16 +120,25 @@
             </div>
         </div>
         <!--form-->
-        <div class="form">
-            <h2>CONTACT US</h2>
-            <div class="input">
-                <input type="email" class="form-control" id="details" placeholder="Name...">
-                <input type="email" class="form-control" id="details" placeholder="Email...">
+        <form class="form" action="https://formsubmit.co/tracy.chepkorir@student.moringaschool.com" method="post">
+            <h3>CONTACT US</h3>
+            <div class=" container m-auto row">
+                <div class="col-6">
+                    <input type="text" id="name" class="form-control bg-transparent text-light" placeholder="Name..." aria-label="First name">
+                </div>
+                <div class="col-6">
+                    <input type="email" id="email" class="form-control bg-transparent text-light" placeholder="Email..." aria-label="Email">
+                    <input type="hidden" name="_captcha" value="false">
+                </div>
             </div>
-            <div class="input">
-                <textarea class="form-control" id="textarea" rows="3" placeholder="Your message here.."></textarea>
+            <div class=" container form-floating">
+                <textarea class="form-control bg-transparent text-light txt-area" placeholder="your text here..." id="floatingTextarea"></textarea>
+
             </div>
-        </div>
+
+
+        </form>
+
     </div>
 
 </body>

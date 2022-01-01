@@ -12,10 +12,3 @@ for (let i = 0; i < show.length || i < pop.length; i++) {
     })
 
 }
-
-
-// pop.addEventListener("click", () => {
-//     pop.classList.remove("display")
-//     show.classList.add("display")
-
-// });=
