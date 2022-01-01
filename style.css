@@ -192,8 +192,9 @@ input {
 /*socials*/
 
 .socials {
-    width: 50%;
+    width: 70%;
     padding: 2rem;
+    padding-left: 24rem;
 }
 
 ul {
