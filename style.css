@@ -135,6 +135,6 @@ h4 {
     padding-left: 0.5rem;
     width: 20%;
     margin-left: 1.4rem;
-    height: 28vh;
-    background-color: rgba(0, 0, 0, 0.3);
+    height: 25vh;
+    text-shadow: 0 0 5px black;
 }
