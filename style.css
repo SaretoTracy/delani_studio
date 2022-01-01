@@ -125,12 +125,15 @@ h4 {
 
 .desc {
     color: white;
+    font-size: 26px;
     padding-top: 1rem;
-    border: 1px solid red;
+    border: 3px solid white;
     position: absolute;
     top: 2.5rem;
     bottom: 0;
     padding-left: 0.5rem;
-    width: 18%;
-    height: 25vh;
+    width: 20%;
+    margin-left: 1.4rem;
+    height: 28vh;
+    background-color: rgba(0, 0, 0, 0.3);
 }
