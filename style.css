@@ -153,9 +153,25 @@ h4 {
 .form {
     background-image: url("./assets/backgrounds/2ndbcg.jpg");
     background-position: 100% center;
-    height: 60vh;
+    height: 100vh;
     background-size: cover;
     text-align: center;
     color: white;
     padding-top: 4rem;
+}
+
+input {
+    width: 40%;
+    padding-left: 4rem;
+}
+
+.txt-area {
+    margin: 10px auto;
+    width: 65% !important;
+    height: 40vh !important;
+}
+
+ ::placeholder {
+    color: white !important;
+    opacity: .7 !important;
 }
