@@ -153,11 +153,15 @@ h4 {
 .form {
     background-image: url("./assets/backgrounds/2ndbcg.jpg");
     background-position: 100% center;
-    height: 100vh;
+    height: 80vh;
     background-size: cover;
     text-align: center;
     color: white;
     padding-top: 4rem;
+}
+
+.form h3 {
+    padding-bottom: 2rem;
 }
 
 input {
@@ -169,6 +173,14 @@ input {
     margin: 10px auto;
     width: 65% !important;
     height: 40vh !important;
+}
+
+.col-6 {
+    width: 40%;
+}
+
+.col-6:first-child {
+    padding-left: 10rem;
 }
 
  ::placeholder {
