@@ -124,9 +124,9 @@ h4 {
 }
 
 .desc {
-    color: white;
+    color: white !important;
     font-size: 26px;
-    font-weight: 900px;
+    font-weight: bold;
     padding-top: 1rem;
     border: 3px solid white;
     position: absolute;
@@ -135,16 +135,15 @@ h4 {
     padding-left: 0.5rem;
     width: 20%;
     margin-left: 1.4rem;
-    height: 25vh;
-    text-shadow: 0 0 5px black;
+    height: 22vh;
     opacity: 0;
     transition: all ease-in-out 250ms
 }
 
 .desc:hover {
-    opacity: 1;
+    opacity: 2;
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 
