@@ -159,3 +159,7 @@ h4 {
     color: white;
     padding-top: 4rem;
 }
+
+.form h2 {
+    text-align: center;
+}
