@@ -137,4 +137,12 @@ h4 {
     margin-left: 1.4rem;
     height: 25vh;
     text-shadow: 0 0 5px black;
+    opacity: 0;
+    transition: all ease-in-out 250ms
+}
+
+.desc:hover {
+    opacity: 1;
+    cursor: pointer;
+    background-color: rgba(17, 17, 17, 0.411);
 }
