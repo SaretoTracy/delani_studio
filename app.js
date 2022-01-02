@@ -11,4 +11,4 @@ for (let i = 0; i < show.length || i < pop.length; i++) {
         show[i].classList.add("display")
     })
 
-}
+};
