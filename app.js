@@ -12,3 +12,12 @@ for (let i = 0; i < show.length || i < pop.length; i++) {
     })
 
 };
+$(document).ready(() => {
+    $("#submit").click((e) => {
+        if ($("#email").val() === "" || $("#name").val() === "") {
+            e.preventDefault();
+            alert(`enter your Name and email address`);
+        } else alert(`${$("#name").val()} we have received your message. Thank you for reaching out to us. `);
+        $("form").trigger("reset");
+    });
+})
