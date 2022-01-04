@@ -12,7 +12,7 @@ A landing page of a fictional studio
 - Jquery
 ## Live Demo
 
-[Live Demo Link](https://saretotracy.github.io/Portfolio/)
+[Live Demo Link](https://saretotracy.github.io/delani_studio/)
 
 
 ## Getting Started
@@ -27,8 +27,7 @@ A computer with a working and up to date web browser.
 
 - Clone the repository to your folder of choice using Git (or just download all the files)
 ```
-$ git clone https://github.com/SaretoTracy/Portfolio.git
-
+$ git clone https://saretotracy.github.io/delani_studio/
 ```
 - Open the index.html file (in the root folder) and the website should show up.
 
