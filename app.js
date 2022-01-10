@@ -12,6 +12,7 @@ for (let i = 0; i < show.length || i < pop.length; i++) {
     })
 
 };
+
 $(document).ready(() => {
     $("#submit").click((e) => {
         if ($("#email").val() === "" || $("#name").val() === "") {
